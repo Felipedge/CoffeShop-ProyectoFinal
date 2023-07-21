@@ -7,7 +7,7 @@ import React from 'react';
 const Registration = () => {
   return (
     <div>
-      
+      <h1>Hola</h1>
     </div>
   );
 }
